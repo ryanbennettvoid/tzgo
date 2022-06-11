@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 type TokenKind byte

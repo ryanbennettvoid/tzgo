@@ -9,7 +9,7 @@ import (
     "encoding/json"
     "strconv"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // DoubleEndorsementEvidence represents "double_endorsement_evidence" operation

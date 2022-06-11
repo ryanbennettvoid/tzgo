@@ -10,8 +10,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // Operation represents a single operation or batch of operations included in a block

@@ -16,9 +16,9 @@ import (
 	"strings"
 	"syscall"
 
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/rpc"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/rpc"
+	"ryanbennettvoid/tzgo/tezos"
 	"github.com/echa/log"
 )
 

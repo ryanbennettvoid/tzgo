@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"blockwatch.cc/tzgo/base58"
+	"ryanbennettvoid/tzgo/base58"
 	"golang.org/x/crypto/blake2b"
 )
 

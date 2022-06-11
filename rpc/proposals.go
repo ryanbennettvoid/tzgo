@@ -4,7 +4,7 @@
 package rpc
 
 import (
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // Ensure Proposals implements the TypedOperation interface.

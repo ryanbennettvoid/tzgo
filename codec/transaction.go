@@ -7,8 +7,8 @@ import (
     "bytes"
     "strconv"
 
-    "blockwatch.cc/tzgo/micheline"
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/micheline"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // Transaction represents "transaction" operation

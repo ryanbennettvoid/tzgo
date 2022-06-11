@@ -1,5 +1,5 @@
 // Copyright (c) 2020-2022 Blockwatch Data Inc.
-// Author: alex@blockwatch.cc
+// Author: alex@ryanbennettvoid
 
 package contract
 
@@ -8,10 +8,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"blockwatch.cc/tzgo/codec"
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/rpc"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/codec"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/rpc"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // Represents a generic FA1 (tzip5) or FA1.2 (tzip7) token

@@ -16,7 +16,7 @@ import (
 	"log"
 	"os"
 
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
     "io"
     "strconv"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // ActivateAccount represents "activate_account" operation

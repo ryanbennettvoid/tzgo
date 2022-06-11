@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"blockwatch.cc/tzgo/hash"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/hash"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // WIP: interface may change

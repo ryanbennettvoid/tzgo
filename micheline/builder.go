@@ -6,7 +6,7 @@ package micheline
 import (
 	"math/big"
 
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 func NewCode(c OpCode, args ...Prim) Prim {

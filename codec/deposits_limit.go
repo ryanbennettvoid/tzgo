@@ -7,7 +7,7 @@ import (
     "bytes"
     "strconv"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // SetDepositsLimit represents "set_deposits_limit" operation

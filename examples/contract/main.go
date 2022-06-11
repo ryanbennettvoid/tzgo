@@ -23,11 +23,11 @@ import (
 	"strconv"
 	"strings"
 
-	"blockwatch.cc/tzgo/contract"
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/rpc"
-	"blockwatch.cc/tzgo/signer"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/contract"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/rpc"
+	"ryanbennettvoid/tzgo/signer"
+	"ryanbennettvoid/tzgo/tezos"
 	"github.com/echa/log"
 )
 

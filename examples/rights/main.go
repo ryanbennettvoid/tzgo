@@ -12,8 +12,8 @@ import (
     "os"
     "strconv"
 
-    "blockwatch.cc/tzgo/rpc"
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/rpc"
+    "ryanbennettvoid/tzgo/tezos"
     "github.com/echa/log"
 )
 

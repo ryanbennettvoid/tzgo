@@ -9,10 +9,10 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"blockwatch.cc/tzgo/codec"
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/signer"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/codec"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/signer"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 const GasSafetyMargin int64 = 100

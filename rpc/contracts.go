@@ -7,8 +7,8 @@ import (
 	"context"
 	"fmt"
 
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // UnparsingMode defines the way types and values are represented in Micheline script

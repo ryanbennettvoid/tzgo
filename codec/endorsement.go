@@ -9,7 +9,7 @@ import (
     "encoding/json"
     "strconv"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // Endorsement represents "endorsement" operation

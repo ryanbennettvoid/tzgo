@@ -8,8 +8,8 @@ import (
     "encoding/json"
     "strconv"
 
-    "blockwatch.cc/tzgo/micheline"
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/micheline"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // Origination represents "origination" operation

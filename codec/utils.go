@@ -8,7 +8,7 @@ import (
     "fmt"
     "io"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // TODO: fetch dynamic from /chains/main/mempool/filter

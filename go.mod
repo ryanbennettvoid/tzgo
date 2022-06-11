@@ -1,4 +1,4 @@
-module blockwatch.cc/tzgo
+module ryanbennettvoid/tzgo
 
 go 1.17
 

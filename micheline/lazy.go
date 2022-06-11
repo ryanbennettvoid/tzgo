@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 type LazyKind string

@@ -4,8 +4,8 @@
 package rpc
 
 import (
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // Ensure Transaction implements the TypedOperation interface.

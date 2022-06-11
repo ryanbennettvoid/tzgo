@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"blockwatch.cc/tzgo/base58"
+	"ryanbennettvoid/tzgo/base58"
 )
 
 var (

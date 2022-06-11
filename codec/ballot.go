@@ -8,7 +8,7 @@ import (
     "encoding/binary"
     "strconv"
 
-    "blockwatch.cc/tzgo/tezos"
+    "ryanbennettvoid/tzgo/tezos"
 )
 
 // Ballot represents "ballot" operation

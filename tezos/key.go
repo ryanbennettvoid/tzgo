@@ -14,7 +14,7 @@ import (
 	"crypto/elliptic"
 	"crypto/rand"
 
-	"blockwatch.cc/tzgo/base58"
+	"ryanbennettvoid/tzgo/base58"
 
 	"github.com/decred/dcrd/dcrec/secp256k1"
 	"golang.org/x/crypto/blake2b"

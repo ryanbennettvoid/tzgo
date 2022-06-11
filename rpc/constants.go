@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 type Constants struct {

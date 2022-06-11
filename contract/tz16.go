@@ -17,9 +17,9 @@ import (
 	"strconv"
 	"strings"
 
-	"blockwatch.cc/tzgo/micheline"
-	"blockwatch.cc/tzgo/rpc"
-	"blockwatch.cc/tzgo/tezos"
+	"ryanbennettvoid/tzgo/micheline"
+	"ryanbennettvoid/tzgo/rpc"
+	"ryanbennettvoid/tzgo/tezos"
 )
 
 // Represents Tzip16 contract metadata
