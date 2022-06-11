@@ -64,7 +64,7 @@ type TokenMetadata struct {
 	IsTransferable     bool   `json:"is_transferable,omitempty"`
 
 	// internal
-	uri string `json:"-"`
+	URI string `json:"-"`
 }
 
 // (pair (nat %token_id) (map %token_info string bytes))
@@ -89,7 +89,7 @@ func (t *TokenMetadata) UnmarshalPrim(prim micheline.Prim) error {
 		}
 		switch field {
 		case "":
-			t.uri = string(data)
+			t.URI = string(data)
 		case "name":
 			t.Name = string(data)
 		case "description":
@@ -178,8 +178,8 @@ func ResolveTokenMetadata(ctx context.Context, contract *Contract, tokenid tezos
 	}
 
 	// should forward?
-	if meta.uri != "" {
-		if err := contract.ResolveTz16Uri(ctx, meta.uri, meta, nil); err != nil {
+	if meta.URI != "" {
+		if err := contract.ResolveTz16Uri(ctx, meta.URI, meta, nil); err != nil {
 			return nil, err
 		}
 	}
